@@ -83,6 +83,12 @@ and click on the connect icon
 
 
 
+#### Program :
+![pp1](https://github.com/Sajetha13/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/138849316/8e79cda1-438f-4b5f-9fb3-b07df8d74aea)
+![pp2](https://github.com/Sajetha13/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/138849316/20e67a04-99b5-4433-ae1c-32206f95f19a)
+![pp3](https://github.com/Sajetha13/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/138849316/9b140abd-721c-4a80-a9b4-410d9a414c19)
+
+![pp4](https://github.com/Sajetha13/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/138849316/97aa493e-5259-4398-9d03-9c380b8f4fc0)
 
 
 
@@ -99,15 +105,23 @@ and click on the connect icon
 
 
 ### output video and screen shots of pick and place 
+##### Pick operation :
+![pick](https://github.com/Sajetha13/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/138849316/8fdcedec-ae76-460b-83fb-98c0bd49b261)
+![pick2](https://github.com/Sajetha13/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/138849316/4823dcdf-48a6-4c6c-af4a-1c420908c9e1)
+
+##### place operation :
+![place](https://github.com/Sajetha13/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/138849316/a48ee947-a455-4953-8fcd-b44137d434f3)
+![place2](https://github.com/Sajetha13/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/138849316/3fb99e7e-3ebf-4671-aac4-7ca87f30d253)
 
 
-
+##### Video representation:
+https://youtube.com/shorts/ccESspqv0ZY
 
 
 
 
 ### Results: 
-
+The  pick and place of a regular shape using two finger gripper on the conveyor belt is done succesfully.
 
 
 
